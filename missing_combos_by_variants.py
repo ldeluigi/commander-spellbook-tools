@@ -2,6 +2,7 @@
 from collections import defaultdict
 import json
 from urllib.request import Request, urlopen
+import statistics
 
 def find_card_variants() -> dict[str, frozenset[frozenset[str]]]:
     combo_db = list[set]()
@@ -34,7 +35,8 @@ def find_card_variants() -> dict[str, frozenset[frozenset[str]]]:
 
     result = dict[str, frozenset[frozenset[str]]]()
     for card, vs in variants.items():
-        vsf = frozenset([v for v in vs if vs.count(v) >= 7 and not any([c.issubset(v) for c in vs if c != v])])
+        combo_count = sum(1 if card in combo else 0 for combo in combo_db)
+        vsf = frozenset([v for v in vs if vs.count(v) > combo_count / 3 and not any([c.issubset(v) for c in vs if c != v])])
         if len(vsf) > 0:
             result[card] = vsf
     return result
@@ -63,7 +65,7 @@ def find_missing_combos(variants: dict[str, frozenset[frozenset[str]]]) -> dict[
                         missing_combos[combo].add(new_combo)
     return missing_combos
 
-def pretty_print_missing_combos(missing_combos: dict[frozenset[str], set[frozenset[str]]]) -> str:
+def pretty_print_all_combo_replacements(missing_combos: dict[frozenset[str], set[frozenset[str]]]) -> str:
     result = ''
     for combo, combos in missing_combos.items():
         combo_name = ' + '.join(combo)
@@ -75,10 +77,12 @@ def pretty_print_missing_combos(missing_combos: dict[frozenset[str], set[frozens
 
 def pretty_print_all_combo_suggestions(missing_combos: dict[frozenset[str], set[frozenset[str]]]) -> str:
     result = ''
-    u = set()
+    u = defaultdict(int)
     for new_combos in missing_combos.values():
         for new_combo in new_combos:
-            u.add(new_combo)
-    for new_combo in u:
+            u[new_combo] += 1
+    for new_combo in sorted(u.keys(), key=lambda combo: str(combo)):
         result += f'Combo suggestion: {" + ".join(new_combo)}\n'
     return result
+
+
