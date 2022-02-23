@@ -12,3 +12,6 @@ It also provides a questionable, fuzzy algorithm that generates a list of varian
 
 ## CommanderSpellbook + Scryfall
 The file `commanderspellbook_with_scryfall.py` provides utilities to generate a conjunct dataset between Scryfall and Commander Spellbook.
+
+## Combo enabler/outlet separation
+The file `combo_enabler_outlet_separator.py` provides utilities to attempt to distinguish between "combo enablers" which create infinite X and "outlets for X" which use infinite X to win.
