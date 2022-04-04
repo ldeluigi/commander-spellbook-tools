@@ -61,17 +61,17 @@ def find_missing_combos(variants: dict[str, frozenset[frozenset[str]]]) -> dict[
             if variant_name in combo:
                 for variant in variant_options:
                     new_combo = combo - frozenset([variant_name]) | variant
-                    if new_combo not in combo_db and new_combo not in missing_combos[combo]:
+                    if new_combo not in combo_db and all([new_combo not in new_combos for new_combos in missing_combos.values()]):
                         missing_combos[combo].add(new_combo)
     return missing_combos
 
 def pretty_print_all_combo_replacements(missing_combos: dict[frozenset[str], set[frozenset[str]]]) -> str:
     result = ''
     for combo, combos in missing_combos.items():
-        combo_name = ' + '.join(combo)
+        combo_name = ' + '.join(sorted(combo))
         result += f'The combo "{combo_name}" is missing the following variants:\n'
         for combo in combos:
-            result += f'\t{" + ".join(combo)}\n'
+            result += f'\t{" + ".join(sorted(combo))}\n'
     return result
 
 
