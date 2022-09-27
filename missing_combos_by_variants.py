@@ -86,3 +86,7 @@ def pretty_print_all_combo_suggestions(missing_combos: dict[frozenset[str], set[
     return result
 
 
+with open(__file__.removesuffix('.py') + '.suggestions.txt', 'w') as f:
+    f.write(pretty_print_all_combo_suggestions(find_missing_combos(find_card_variants())))
+with open(__file__.removesuffix('.py') + '.replacements.txt', 'w') as f:
+    f.write(pretty_print_all_combo_replacements(find_missing_combos(find_card_variants())))

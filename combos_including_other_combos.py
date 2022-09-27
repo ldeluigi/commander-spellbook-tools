@@ -30,12 +30,18 @@ def combos_including_other_combos() -> dict[int, tuple[frozenset[str], frozenset
 
 def pretty_print_combos_in_combos(combos: dict[int, tuple[frozenset[str], frozenset[int]]]) -> str:
     result = ''
-    for id, (combo, includes) in combos.items():
+    n = 1
+    for id, (combo, includes) in sorted(combos.items(), key=lambda item: -len(item[1][0])):
         if len(includes) == 0:
             continue
         c = ', '.join(combo)
-        result += f'The combo with id {id} ({c}) includes the following combos:\n'
-        for id in includes:
+        result += f'{n}) The combo with id {id} ({c}) includes the following combos:\n'
+        for i, id in enumerate(includes):
             c = ', '.join(combos[id][0])
-            result += f'\t{id}: ({c})\n'
+            result += f'\t{chr(ord("a") + i)}. {id}: ({c})\n'
+        result += ''
+        n += 1
     return result
+
+with open(__file__.removesuffix('.py') + '.txt', 'w') as f:
+    f.write(pretty_print_combos_in_combos(combos_including_other_combos()))
