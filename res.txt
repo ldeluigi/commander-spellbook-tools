@@ -1,0 +1,274 @@
+infinite etb: 6441
+infinite ltb: 5470
+infinite death triggers: 3739
+infinite sacrifice triggers: 3413
+infinite storm count: 2649
+infinite colored mana: 2215
+infinite colorless mana: 1751
+infinite creature tokens: 1335
+infinite damage: 1179
+infinite turns: 1141
+infinite card draw: 1070
+infinite lifegain: 903
+infinite landfall triggers: 599
+infinite draw triggers: 560
+infinite lifegain triggers: 536
+infinite magecraft triggers: 466
+win the game: 405
+near-infinite etb: 401
+infinite lifeloss: 398
+infinite self-mill: 350
+infinite mill: 347
+infinite creature tokens with haste: 331
+near-infinite ltb: 330
+infinite treasure tokens: 303
+near-infinite death triggers: 273
+infinite green mana: 251
+near-infinite sacrifice triggers: 246
+infinite red mana: 243
+infinite combat phases: 223
+infinite looting: 221
+near-infinite storm count: 219
+infinite tokens: 214
+infinite black mana: 214
+infinite +1/+1 counters: 195
+each opponent loses the game: 194
+infinite blinking: 189
+limited by cards remaining in library: 176
+infinite tap triggers: 169
+near-infinite lifegain: 166
+target opponent loses the game: 160
+infinite self-discard triggers: 150
+infinite mana lands you control can produce: 148
+infinite blue mana: 144
+infinite scry 1: 141
+infinite untap: 132
+infinite untap of creatures you control: 126
+infinite ltb triggers: 123
+near-infinite damage: 122
+infinitely large creatures until end of turn: 122
+infinite untap of all creatures: 114
+near-infinite lifeloss: 108
+near-infinite lifegain triggers: 100
+infinite etb triggers: 100
+infinite tapped creature tokens: 88
+infinite untap triggers: 78
+infinite life: 70
+near-infinite landfall triggers: 68
+near-infinite colorless mana: 67
+near-infinite colored mana: 65
+near-infinite creature tokens: 65
+target player loses the game on each of your turns: 60
+infinite +1/+1 counters on carrion feeder: 57
+infinite combat damage: 57
+near-infinite lifeloss for target opponent: 52
+near-infinite magecraft triggers: 50
+infinite white mana: 50
+puts all cards from your library and graveyard into your hand: 50
+opponents sacrifice all their creatures every turn: 49
+win the game at the beginning of your next upkeep: 49
+infinite damage to opponents: 48
+draw the game: 47
+near-infinite self-discard triggers: 47
+infinite mana: 46
+infinite untap of lands you control: 46
+infinite clue tokens: 43
+infinite draw: 42
+infinite +1/+1 counters on creatures you control: 41
+infinite commander casts: 41
+infinite tapped treasure tokens: 41
+returns all lands you control to your hand: 40
+infinite scry: 39
+infinite colorless mana that can only be spent to activate abilities: 37
+near-infinite treasure tokens: 37
+near-infinite damage to target opponent: 37
+infinite creatures tokens with haste: 36
+near-infinite +1/+1 counters on nadir kraken: 35
+infinite rummaging: 34
+infinitely large creatures: 33
+infinite mana permanents you control can produce: 33
+infinite untap of creatures: 33
+near-infinite creature tokens with haste: 32
+infinite untaps: 31
+exile your library: 31
+near-infinite mill: 31
+infinite mana creatures you control can produce: 31
+put all artifacts and dragons from your library onto the battlefield: 31
+draw your library: 30
+infinite +1/+1 counters on unruly mob: 30
+infinite colored mana at your next untap phase: 29
+infinite hasty kiki-jiki's tokens: 28
+infinite proliferate: 27
+infinite untap of permanents you control: 26
+infinite creature untaps: 25
+infinite mana nonland permanents you control can produce: 25
+infinitely large crackdown construct: 25
+infinite mana (dependent on the number of mana dorks you have): 24
+target player takes a lethal amount of damage: 24
+near-infinite untap of all creatures: 24
+infinite untap of artifacts you control: 22
+infinite +1/+1 counters on walking ballista: 22
+infinitely large crystalline crawler: 22
+infinite +1/+1 counters on scurry oak: 22
+infinite mana basic lands you control can produce: 21
+infinite mana of any color: 21
+infinite blink: 20
+infinite +1/+1 counters on triskelion: 20
+infinite tapped creature tokens with haste: 20
+near-infinite ventures into the dungeon: 20
+near-infinite +1/+1 counters on shabraz: 19
+near-infinite black mana: 19
+infinite +1/+1 counters on herd baloth: 19
+infinite food tokens: 19
+near-infinite card draw: 17
+infinite damage to creatures: 17
+infinite creature untap: 17
+damage equal to each opponents life total to them: 16
+infinite copies of all targetable permanents: 16
+put any number of artifacts and dragons from you library onto the battlefield: 16
+near-infinite scry: 16
+infinite death trigger: 15
+exile each opponent's library: 15
+put all creature cards from all graveyards onto the battlefield under your control: 15
+near-infinite draw triggers: 15
+near infinite sacrifice triggers: 15
+near-infinite mana lands you control can produce: 14
+infinite 1/1 sliver tokens: 14
+put all permanents with mana value three or less from your graveyard and library onto the battlefield: 14
+infinitely powerful creatures until end of turn: 14
+infinitely large carrion feeder: 14
+infinite damage to target opponent: 14
+infinite sacrifice trigger: 14
+put all permanents with mana value three or less from your library and graveyard onto the battlefield: 13
+infinite creature tokens with defender: 13
+infinite rock tokens: 13
+infinite burnt offering triggers: 13
+infinite blinking of nonland permanents you control: 13
+infinite recursion of lands from your graveyard to the battlefield: 12
+infinite damage to all opponents: 12
+infinite creature tokens with flying: 12
+creatures cannot attack you: 12
+infinite untap of nonland permanents you control: 11
+infinitely large flyers: 11
+near-infinite green mana: 11
+infinite surveil: 11
+infinitely large void maw until end of turn: 11
+near-infinite tapped creature tokens: 11
+near-infinite life: 11
+put all basic forests from your library onto the battlefield: 11
+infinite colorless mana that cannot be spent to cast spells from your hand: 11
+gain control of all permanents: 10
+infinitely large turntimber ranger: 10
+infinitely large samurai: 10
+target player loses the game: 10
+nobody can attack you, and nobody can activated the abilites of any permenant on the battlefield: 10
+put all basic lands from your library onto the battlefield tapped: 10
+destroy all creatures you do not control: 10
+destroy any creature you do not control at instant speed: 10
+infinite +1/+1 counters on all other creatures you control: 10
+put all non-human creatures from your library onto the battlefield: 10
+infinite energy counters: 10
+infinite untap of all creatures you control: 10
+infinite +1/+1 counters on mortician beetle: 10
+infinite colorless mana that can only be spent to activated abilities: 10
+infinitely large faeburrow elder until end of turn: 10
+infinitely large bloom tender until end of turn: 10
+counter all spells opponents cast: 10
+destroy all creatures that enter the battlefield under an opponent's control: 10
+opponents can not cast spells: 9
+infinite draw triggers for opponents: 9
+infinite card draw at the beginning of the next upkeep step: 9
+infinite creature tokens with flying and haste: 9
+infinite casts of any noncreature cmc 3- in graveyard: 9
+infinite damage to any target: 9
+ infinite sacrifice triggers: 9
+infinite damage to flying creatures: 9
+infinite +1/+1 counters on creature you control: 9
+lock on creatures: 9
+tutor and play every sliver in your library: 9
+near-infinite food tokens: 9
+near-infinite clue tokens: 9
+infinite +1/+1 counters on sengir: 9
+put all creature cards from your library onto the battlefield: 8
+infinite colored mana that can only be spent to cast creature spells: 8
+infinite card draw for opponents: 8
+near-infinite creature tokens with flying and haste: 8
+cast any cards from your library: 8
+infinite untap of artifacts: 8
+near-infinite etb triggers: 8
+near-infinite ltb triggers: 8
+near-infinite red mana: 8
+near-infinite commander casts: 8
+near-infinite untap triggers: 8
+exile all cards in all hands and graveyards: 8
+infinite colored mana that can only be spent to activate abilities: 8
+infinite +1/+1 counters on farmstead gleaner: 8
+infinite untap of myrs you control: 8
+ infinite commander casts: 8
+near-infinite untap of permanents you control: 8
+kill an opponent: 7
+infinite tapped food tokens: 7
+infinite mana artifacts you control can produce: 7
+destroy all lands your opponents control: 7
+exile all permanents opponents control: 7
+reorder your library, putting a number of cards into your hand equal to the amount of extra cards you had in your hand: 7
+return any number of instant and sorcery cards (except mythos of illuna) from your graveyard to your hand any number of times: 7
+near-infinite proliferate: 7
+put all lands from your library onto the battlefield: 7
+put all basic lands from your library onto the battlefield: 7
+exile all permanents: 7
+infinite tapped land tokens: 7
+infinite blue mana that can only be spent to cast instant and sorcery spells: 7
+infinite card draws: 7
+infinite lifeloss for target opponent: 7
+infinite cascade with mv<=4: 7
+infinite +1/+1 counters on animar: 6
+ infinite death triggers: 6
+infinite colorless mana for activated abilities: 6
+sculpt the cards in your hand as you see fit: 6
+skip all of your future turns, causing your opponents to eventually draw from an empty library and lose the game: 6
+you have protection from everything: 6
+your life total can not change: 6
+large kraken: 6
+infinite damage to every creature on the battlefield: 6
+infinite kobold tokens: 6
+put all lands with a basic land type from your library onto the battlefield: 6
+infinite mill for target opponent: 6
+infinite targeted land destruction: 6
+near-infinite -1/-1 counters: 6
+infinite snow mana: 6
+infinite +1/+1 counters on cryptic trilobite: 6
+near-infinite looting: 6
+infinite nicol bolas, dragon-god tokens: 6
+infinitely large crackdown construct until end of turn: 6
+infinite damage to opponent and each creature your opponents control: 6
+infinite land sacrifice triggers: 6
+infinite creature tokens for opponents: 6
+infinite creature tokens with 0 power: 6
+infinitely large ich-tekik: 6
+near infinite etb: 6
+near infinite ltb: 6
+near infinite death triggers: 6
+infinite recursion of instants and sorceries from your graveyard: 6
+near infinite +1/+1 counters on creatures you control: 6
+return any number of creatures to their owners hands: 6
+infinite jace, cunning castaway tokens: 6
+infinite colored mana that can only be spent to cast artifact spells: 6
+infinite colorless mana that can only be spent to cast artifact spells: 6
+put all land cards from your hand and library onto the battlefield: 6
+order your library: 6
+infinite +1/+1 counters on nadier: 6
+infinite mana snow permanents you control can produce: 6
+infinite untap of snow permanents you control: 6
+near-infinitely powerful devilish valet until end of turn: 6
+infinite red mana that can only be spent to cast instant and sorcery spells: 6
+near-infinite +1/+1 counters on body launderer: 6
+infinite +1/+1 counter doubling: 6
+infinite lifegaiin triggers: 6
+infinite blinking for all players: 6
+destroy any number of target creature(s): 6
+destroy any creature that enters the battlefield under an opponent's control: 6
+infinite casts of instants and sorceries in your hand and graveyard: 6
+infinite combat damage to an opponent: 6
+infinite copies of spells with {x} in their mana cost: 6
+infinite copies of abilities with {x} in their cost: 6
